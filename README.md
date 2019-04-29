@@ -1,6 +1,6 @@
 # Bus Problem
 
-Design
+__Design__
 
 -Arduino nano (AN) communicaling to 9 
 
@@ -17,7 +17,7 @@ Design
 -Once last AN gets signal it sends back an "enable" to other 8 nanos to synchronize them 
 
 
-Cost
+__Cost__
 
 -Wire=           $3
 
@@ -27,7 +27,7 @@ Cost
 
 -Total=         $46
 
-Speed
+__Speed__
 
 -Baud of 9600
 
